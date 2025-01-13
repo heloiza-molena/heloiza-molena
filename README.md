@@ -1,5 +1,5 @@
-- 👋 Hi meu nome é Heloiza Molena, seja bem vindo ao meu GITHUB!
-- 👀 Atualmente estou estudando DEVS
+- 👋 Olá, meu nome é Heloiza Molena, seja bem vindo ao meu GITHUB!
+- 👀 Atualmente estou estudando Cybersegurança
 
 <div align="center">
   <a href="https://github.com/heloiza-molena">
